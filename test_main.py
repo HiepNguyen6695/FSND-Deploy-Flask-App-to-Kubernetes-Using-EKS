@@ -7,6 +7,10 @@ import pytest
 
 import main
 
+#SECRET = 'IThinkThereforeIAm'
+#TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODY2MzE3MzMsIm5iZiI6MTU4NTQyMjEzMywiZW1haWwiOiJsYXZhc2hvcnRAZ21haWwuY29tIn0.OPk8chxi74kcTmCIaAOCU3x6PwIqN8hVwWUHx3hfE_w'
+#EMAIL = 'lavashort@gmail.com'
+#PASSWORD = 'Crystallam1!'
 SECRET = 'TestSecret'
 TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjEzMDY3OTAsIm5iZiI6MTU2MDA5NzE5MCwiZW1haWwiOiJ3b2xmQHRoZWRvb3IuY29tIn0.IpM4VMnqIgOoQeJxUbLT-cRcAjK41jronkVrqRLFmmk'
 EMAIL = 'wolf@thedoor.com'
